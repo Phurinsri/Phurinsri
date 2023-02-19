@@ -1,11 +1,17 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Phurin</h1>
-- I am a **Programming rookie** 
+<h3 align="left" id="macropower-title">:wave: Hi there! I'm Phurin</h3>
+<hr>
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Phurinsri&show_icons=true&theme=radical">
+
+- I am a **Programming rookie**
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **cryptocurrency, trading and learning.** 
-- I used to dream of being a trader.But **the reality made me have to learn a technology💻,**
+- I used to dream of being a trader. But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤**
+
+<hr>
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phurinsri&layout=compact">
 
 **Talking about Personal Stuffs:**
 
@@ -17,9 +23,9 @@
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **p.urin.main@gmail.com**.
 
-<br>
+<hr>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
 
