@@ -95,15 +95,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="48" height="48" alt="html" />
       </a>
-      <br>
+      <br>HTML
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="48" height="48" alt="css" />
       </a>
-      <br>
+      <br>CSS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
