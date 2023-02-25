@@ -1,17 +1,21 @@
 <h3 align="left" id="macropower-title">:wave: Hi there! I'm Phurin</h3>
 <hr>
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Phurinsri&show_icons=true&theme=radical">
+<div>
+  <a href="https://github.com/Phurinsri">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Phurinsri&count_private=true&show_icons=true&theme=radical">
+</div>
 
 - I am a **Programming rookie**
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **cryptocurrency, trading and learning.** 
 - I used to dream of being a trader. But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
+- and I also came into contact with **programming 🦄 **.
 
 <hr>
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phurinsri&layout=compact">
+<div>
+  <a href="https://github.com/Phurinsri">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phurinsri&layout=compact">
+</div>
 
 **Talking about Personal Stuffs:**
 
