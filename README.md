@@ -55,9 +55,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="Docker" />
       </a>
-      <br>
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
